@@ -4,6 +4,7 @@
 
 **Title**: Superstore Sales and Profit Analysis  
 **Period**: January 2011 - December 2014
+
 **Link**: [Link](https://app.powerbi.com/view?r=eyJrIjoiZmNmYjRmM2QtMzc3MS00ZDM4LTk4NzAtY2E2NzBiMGI2NWJjIiwidCI6IjhiYjA1YjAwLTdmNDgtNDc4NS05NjgwLTkzYjgwYTM0NTVhNSJ9)
 
 
